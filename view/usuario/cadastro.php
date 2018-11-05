@@ -51,7 +51,7 @@
                 <button type="submit" class="btn btn-success btn-lg btn-block">Cadastrar agora</button>
             </div>
         </form>
-        <div class="text-center">Ja tem uma conta? <a href="../../view/usuario/login.php">Entre aqui</a></div>
+        <div class="text-center">Ja tem uma conta? <a href="login.html">Entre aqui</a></div>
     </div>
 
     <script src="../../lib/js/jquery.min.js"></script>

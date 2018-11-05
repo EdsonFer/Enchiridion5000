@@ -40,7 +40,7 @@
                 <p><?php echo (isset($_GET['msg'])?$_GET['msg']:"");?></p>
             </form>
             
-            <p class="text-center"><a href="cadastro.php" class="corLink">Crie uma conta</a></p>
+            <p class="text-center"><a href="Cadastro.html" class="corLink">Crie uma conta</a></p>
             
         </div>
 
