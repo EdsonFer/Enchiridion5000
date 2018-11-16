@@ -37,6 +37,10 @@
                 <input type="email" class="form-control" name="email" placeholder="Email" required="required">
             </div>
             <div class="form-group">
+                <input type="text" class="form-control" name="data_nasc" placeholder="Data de Nascimento"
+                    required="required">
+            </div>
+            <div class="form-group">
                 <input type="password" class="form-control" name="senha" placeholder="Senha" required="required">
             </div>
             <div class="form-group">
@@ -51,7 +55,7 @@
                 <button type="submit" class="btn btn-success btn-lg btn-block">Cadastrar agora</button>
             </div>
         </form>
-        <div class="text-center">Ja tem uma conta? <a href="login.html">Entre aqui</a></div>
+        <div class="text-center">Ja tem uma conta? <a href="login.php">Entre aqui</a></div>
     </div>
 
     <script src="../../lib/js/jquery.min.js"></script>

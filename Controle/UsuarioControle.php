@@ -13,12 +13,16 @@ class UsuarioControle {
         $usuarioDAO = new UsuarioDAO();
 
         $usuario = $usuarioDAO->login($usuario);
-        var_dump($usuario);
-        die();
         if (!empty($usuario)) {
-            header('location: ../index.html');
+            session_start();
+            $_SESSION['nome'] =  $usuario->getNome();
+            $_SESSION['email'] =  $usuario->getEmail();
+            $_SESSION['id_usuario'] = $usuario->getIdusername();
+            $_SESSION['data_nasc'] = $usuario->getData_nasc();
+            $_SESSION['perfil'] = $usuario->getPerfil();
+            header('location: ../index.php');
         }else {
-            header('location: ../Telas/login.php');
+            header('location: ../View/login.php');
         }
     }
 

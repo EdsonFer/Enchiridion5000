@@ -1678,13 +1678,13 @@
 		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
-		font-family: CGF Locust Resistance;
-		src: url('/fonts/CGF Locust Resistance.ttf');
+		font-family:Locust Resistance;
+		src: url('/fonts/Locust Resistance.ttf');
 	}
 
 	@font-face {
-    font-family: 'CGF Locust Resistance';
-    src: url('css/fonts/CGF Locust Resistance.ttf'); /*Para os demais navegadores*/
+    font-family: 'Locust Resistance';
+    src: url('css/fonts/Locust Resistance.ttf'); /*Para os demais navegadores*/
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {

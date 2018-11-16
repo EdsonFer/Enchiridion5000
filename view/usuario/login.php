@@ -15,7 +15,7 @@
 
     <body>
         <header id="header" class="alt">
-            <div class="logo"><a href="../index.html">
+            <div class="logo"><a href="../../Enchiridion.html">
                     <h1>Enchiridion</h1>
                 </a></div>
         </header>
@@ -40,7 +40,7 @@
                 <p><?php echo (isset($_GET['msg'])?$_GET['msg']:"");?></p>
             </form>
             
-            <p class="text-center"><a href="Cadastro.html" class="corLink">Crie uma conta</a></p>
+            <p class="text-center"><a href="Cadastro.php" class="corLink">Crie uma conta</a></p>
             
         </div>
 

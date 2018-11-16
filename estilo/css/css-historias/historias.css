@@ -1,0 +1,110 @@
+.conteudo {
+    height: 850px;
+}
+
+.conteudo1 {
+    float: left;
+    height: inherit;
+    width: 75%;
+    border: 1px solid aqua;
+}
+
+.conteudo2 {
+    float: right;
+    height: inherit;
+    width: 25%;
+    border: 1px solid rebeccapurple;
+}
+
+#cbm {
+    float: left;
+    position: relative;
+    margin: 3.5% 0 0 5%;
+}
+
+button.btn.btn-secondary {
+    height: 40px;
+    background-color: #dae0e4;
+    border-color: #53aeff;
+}
+
+.btn.btn-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, .25);
+}
+
+#selectop {
+    width: 50%;
+    float: left;
+    position: relative;
+    margin: 3.5% 0 0 2.5%;
+}
+
+#filtrar {
+    float: left;
+    margin: 3.5% 0 0 3.5%;
+    height: 40px;
+}
+
+#hre {
+    margin-top: 10%;
+    width: 85%;
+    margin-left: 6%;
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.form-inline {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 3px;
+}
+
+input[type="search"] {
+    border-radius: 10px;
+    height: 35px;
+    width: 103%;
+    position: absolute;
+    margin-top: -4px;
+}
+
+i.fas.fa-search {
+    position: relative;
+    margin-left: 23.5em;
+    top: -3px;
+}
+
+.box1 {
+    position: absolute;
+    border: 1px solid black;
+    height: 300px;
+    width: 8.25%;
+    margin: 2% 0 0 2%;
+}
+
+.box2 {
+    position: absolute;
+    border: 1px solid black;
+    height: 300px;
+    width: 8.25%;
+    margin: 2% 0 0 12%;
+}
+
+.box3 {
+    position: absolute;
+    border: 1px solid black;
+    height: 300px;
+    width: 8.25%;
+    margin: 2% 0 0 22%;
+}
+
+.box4 {
+    position: absolute;
+    border: 1px solid black;
+    height: 300px;
+    width: 8.25%;
+    margin: 2% 0 0 32%;
+}
+
+a > img {
+    width: 100%;
+    height: 241px;
+}
