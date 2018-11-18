@@ -1,12 +1,11 @@
 .subpage {
-    background-color: #e6e6e6;
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(175, 175, 175, 0.5);
 }
 
 .conteudo {
-    background-color: whitesmoke;
+    background-color: white;
+    height: 1450px;
     border-radius: 20px;
-    height: 2000px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -74,246 +73,196 @@ i.fas.fa-search {
 }
 
 .box1 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 0%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 2% 0 0 6%;
 }
 
 .box2 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 10%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 21%;
 }
 
 .box3 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 20%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 36%;
 }
 
 .box4 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 30%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 51%;
 }
 
 .box5 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 40%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 66%;
 }
 
 .box6 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 2% 0 0 50%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 81%;
 }
 
 .box7 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 0%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 1% 0 0 6%;
 }
 
 .box8 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 10%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.15% 0 0 21%;
 }
 
 .box9 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 20%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.15% 0 0 36%;
 }
 
 .box10 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 30%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.15% 0 0 51%;
 }
 
 .box11 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 40%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.15% 0 0 66%;
 }
 
 .box12 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 20% 0 0 50%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.15% 0 0 81%;
 }
 
 .box13 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 0%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 1% 0 0 6%;
 }
 
 .box14 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 10%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 21%;
 }
 
 .box15 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 20%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 36%;
 }
 
 .box16 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 30%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 51%;
 }
 
 .box17 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 40%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 66%;
 }
 
 .box18 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 38% 0 0 50%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 81%;
 }
 
 .box19 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 0%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 2% 0 0 6%;
 }
 
 .box20 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 10%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 21%;
 }
 
 .box21 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 20%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 36%;
 }
 
 .box22 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 30%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 51%;
 }
 
 .box23 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 40%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 66%;
 }
 
 .box24 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 56% 0 0 50%;
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.2% 0 0 81%;
 }
-
-.box25 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 0%;
-}
-
-.box26 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 10%;
-}
-
-.box27 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 20%;
-}
-
-.box28 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 30%;
-}
-
-.box29 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 40%;
-}
-
-.box30 {
-    position: absolute;
-    border: 1px solid black;
-    height: 285px;
-    width: 8.25%;
-    margin: 74% 0 0 50%;
-}
-
-
 
 a>img {
     width: 100%;
@@ -346,4 +295,1797 @@ a>h6 {
 
 button.btn.btn-secondary {
     background-color: whitesmoke;
+}
+
+@media (min-width: 320px) and (max-width: 414px) {
+    .conteudo {
+        height: 2750px;
+    }
+
+    #header>.logo a {
+        visibility: hidden;
+    }
+
+    .form-inline {
+        margin-left: 18%;
+    }
+
+    input[type="search"] {
+        width: 12em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 10.5em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    #cbm {
+        margin: 3.5% 0 0 15%;
+    }
+
+    #selectop {
+        margin: 3.5% 0 0 23%;
+    }
+
+    #filtrar {
+        margin: -2.5% 0 0 30.5%;
+        width: 35%;
+    }
+
+    a>img {
+        height: 200px;
+    }
+
+    .box1 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box2 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box3 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box4 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box5 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box6 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box7 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box8 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box9 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box10 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box11 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box12 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box13 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box14 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box15 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box16 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box17 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box18 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box19 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box20 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box21 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box22 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box23 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box24 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .btn-toolbar {
+        margin: -25% 0 0 20%;
+    }
+
+}
+
+@media (min-width: 771px) and (max-width: 991px) {
+
+    .form-inline {
+        margin-left: 30%;
+    }
+
+    input[type="search"] {
+        width: 24em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 22em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    .box1 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 2% 0 0 0%;
+    }
+
+    .box2 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box3 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box4 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box5 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box6 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box7 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 43% 0 0 0%;
+    }
+
+    .box8 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box9 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box10 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box11 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box12 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box13 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 43% 0 0 0%;
+    }
+
+    .box14 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box15 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box16 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box17 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box18 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box19 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 43% 0 0 0%;
+    }
+
+    .box20 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box21 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box22 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box23 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box24 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .form-inline {
+        margin-left: 34%;
+    }
+
+    input[type="search"] {
+        width: 24em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 22em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    .box1 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 2% 0 0 0%;
+    }
+
+    .box2 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box3 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box4 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box5 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box6 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box7 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 32% 0 0 0%;
+    }
+
+    .box8 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box9 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box10 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box11 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box12 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box13 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 32% 0 0 0%;
+    }
+
+    .box14 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box15 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box16 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box17 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box18 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box19 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 32% 0 0 0%;
+    }
+
+    .box20 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box21 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box22 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box23 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box24 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 770px) {
+    .conteudo {
+        height: 2600px;
+    }
+
+    #header>.logo a {
+        visibility: hidden;
+    }
+
+    .form-inline {
+        margin-left: 18%;
+    }
+
+    input[type="search"] {
+        width: 16em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 14em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    #cbm {
+        margin: 3.5% 0 0 25%;
+    }
+
+    #selectop {
+        margin: 3.5% 0 0 23%;
+    }
+
+    #filtrar {
+        margin: -2.5% 0 0 30.5%;
+        width: 35%;
+    }
+
+    a>img {
+        height: 200px;
+    }
+
+    .box1 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box2 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box3 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box4 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box5 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box6 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box7 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box8 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box9 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box10 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box11 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box12 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box13 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box14 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box15 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box16 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box17 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box18 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box19 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box20 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box21 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box22 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box23 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box24 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box25 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box26 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box27 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box28 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box29 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box30 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box31 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box32 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box33 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box34 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box35 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box36 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .btn-toolbar {
+        margin: -25% 0 0 30%;
+    }
+}
+
+.box25 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 2% 0 0 6%;
+}
+
+.box26 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 21%;
+}
+
+.box27 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 36%;
+}
+
+.box28 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 51%;
+}
+
+.box29 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 66%;
+}
+
+.box30 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 81%;
+}
+
+.box31 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: 0% 0 0 6%;
+}
+
+.box32 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 21%;
+}
+
+.box33 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 36%;
+}
+
+.box34 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 51%;
+}
+
+.box35 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 66%;
+}
+
+.box36 {
+    position: relative;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 12.25%;
+    margin: -25.1% 0 0 81%;
+}
+
+@media (min-width: 320px) and (max-width: 414px) {
+    .conteudo {
+        height: 2750px;
+    }
+
+    #header>.logo a {
+        visibility: hidden;
+    }
+
+    .form-inline {
+        margin-left: 18%;
+    }
+
+    input[type="search"] {
+        width: 12em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 10.5em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    #cbm {
+        margin: 3.5% 0 0 15%;
+    }
+
+    #selectop {
+        margin: 3.5% 0 0 23%;
+    }
+
+    #filtrar {
+        margin: -2.5% 0 0 30.5%;
+        width: 35%;
+    }
+
+    a>img {
+        height: 200px;
+    }
+
+    .box25 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box26 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box27 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box28 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box29 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box30 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box31 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box32 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box33 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box34 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 90% 0 0 6%;
+    }
+
+    .box35 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box36 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .btn-toolbar {
+        margin: -25% 0 0 20%;
+    }
+}
+
+@media (min-width: 771px) and (max-width: 991px) {
+
+    .form-inline {
+        margin-left: 30%;
+    }
+
+    input[type="search"] {
+        width: 24em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 22em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    .box25 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 2% 0 0 0%;
+    }
+
+    .box26 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box27 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box28 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box29 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box30 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box31 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 43% 0 0 0%;
+    }
+
+    .box32 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box33 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box34 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box35 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box36 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .form-inline {
+        margin-left: 34%;
+    }
+
+    input[type="search"] {
+        width: 24em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 22em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    .box25 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 2% 0 0 0%;
+    }
+
+    .box26 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box27 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box28 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box29 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box30 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+
+    .box31 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 32% 0 0 0%;
+    }
+
+    .box32 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 17%;
+    }
+
+    .box33 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 34%;
+    }
+
+    .box34 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 51%;
+    }
+
+    .box35 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 68%;
+    }
+
+    .box36 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 15%;
+        margin: 0% 0 0 85%;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 770px) {
+    .conteudo {
+        height: 2600px;
+    }
+
+    #header>.logo a {
+        visibility: hidden;
+    }
+
+    .form-inline {
+        margin-left: 18%;
+    }
+
+    input[type="search"] {
+        width: 16em;
+    }
+
+    i.fas.fa-search {
+        margin-left: 14em;
+    }
+
+    hr {
+        visibility: hidden;
+    }
+
+    #cbm {
+        margin: 3.5% 0 0 25%;
+    }
+
+    #selectop {
+        margin: 3.5% 0 0 23%;
+    }
+
+    #filtrar {
+        margin: -2.5% 0 0 30.5%;
+        width: 35%;
+    }
+
+    a>img {
+        height: 200px;
+    }
+
+    .box1 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box2 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box3 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box4 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box5 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box6 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box7 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box8 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box9 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box10 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box11 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box12 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box13 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box14 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box15 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box16 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box17 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box18 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box19 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box20 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box21 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box22 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box23 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box24 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box25 {
+        position: relative;
+        height: 0px;
+        width: 27.25%;
+        margin: 50% 0 0 6%;
+    }
+
+    .box26 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 36%;
+    }
+
+    .box27 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 66%;
+    }
+
+    .box28 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box29 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 37%;
+    }
+
+    .box30 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0 0 0 67%;
+    }
+
+    .box31 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box32 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box33 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .box34 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 65% 0 0 6%;
+    }
+
+    .box35 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 37%;
+    }
+
+    .box36 {
+        position: relative;
+        /* border: 1px solid black; */
+        height: 0px;
+        width: 27.25%;
+        margin: 0% 0 0 67%;
+    }
+
+    .btn-toolbar {
+        margin: -25% 0 0 30%;
+    }
 }
